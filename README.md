@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I'm currently working on WebDev and Cloud Computing.<br>🤝 I’m looking for help with projects and understanding complex algorithms.<br>⚡ Fun fact - I find immense satisfaction in perfecting whatever I work on.
 
+Me when code don't work.
+![Uploading look-up-scared.gif…]()
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tarun_2203_/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tarunaaditya/) 
