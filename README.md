@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on WebDev and Cloud Computing.<br>🤝 I’m looking for help with projects and understanding complex algorithms.<br>⚡ Fun fact - I find immense satisfaction in perfecting whatever I work on.
+🔭 I'm currently working on WebDev and Cloud Computing.<br>🤝 I’m looking for help with projects and understanding complex algorithms.<br>⚡ A quirk - I find immense satisfaction in perfecting whatever I work on.
 
 Welcome to the home of my many masterpieces.
 
