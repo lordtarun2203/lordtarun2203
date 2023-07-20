@@ -2,8 +2,7 @@
 🔭 I'm currently working on WebDev and Cloud Computing.<br>🤝 I’m looking for help with projects and understanding complex algorithms.<br>⚡ Fun fact - I find immense satisfaction in perfecting whatever I work on.
 
 Me when code don't work.
-![Uploading look-up-scared.gif…]()
-
+![look-up-scared](https://github.com/lordtarun2203/lordtarun2203/assets/133484826/b3fa8c94-5a7e-4967-9d46-4f4e2b013fae)
 
 
 ## 🌐 Socials:
