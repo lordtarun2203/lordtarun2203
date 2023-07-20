@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 I'm currently working on WebDev and Cloud Computing.<br>🤝 I’m looking for help with projects and understanding complex algorithms.<br>⚡ Fun fact - I find immense satisfaction in perfecting whatever I work on.
 
-Me when code don't work.
-![look-up-scared](https://github.com/lordtarun2203/lordtarun2203/assets/133484826/b3fa8c94-5a7e-4967-9d46-4f4e2b013fae)
 
 
 ## 🌐 Socials:
@@ -17,5 +15,9 @@ Me when code don't work.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lordtarun2203&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Me when code don't work.
+
+![look-up-scared](https://github.com/lordtarun2203/lordtarun2203/assets/133484826/b3fa8c94-5a7e-4967-9d46-4f4e2b013fae)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
