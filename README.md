@@ -3,7 +3,8 @@
 
 What's good people, welcome to the place of my many masterpieces.
 
-![whats-up-everybody](https://github.com/lordtarun2203/lordtarun2203/assets/133484826/c4e0afe6-cf42-4bdd-b052-3fd9f5cee2bb)
+![vvvv](https://github.com/lordtarun2203/lordtarun2203/assets/133484826/141b8c4e-0ac2-4352-a16c-b48471faaf44)
+
 
 
 
