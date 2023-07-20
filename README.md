@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I'm currently working on WebDev and Cloud Computing.<br>🤝 I’m looking for help with projects and understanding complex algorithms.<br>⚡ Fun fact - I find immense satisfaction in perfecting whatever I work on.
 
+![funny-cute](https://github.com/lordtarun2203/lordtarun2203/assets/133484826/0816f9f0-0769-4571-9ca3-f43f9318896c)
+
 
 
 ## 🌐 Socials:
