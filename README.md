@@ -4,7 +4,7 @@
 Welcome to the home of my many masterpieces.
 
 
-![funny-cute](https://github.com/lordtarun2203/lordtarun2203/assets/133484826/63975063-7db5-49a9-a67d-fa988f7b7850)
+https://media.tenor.com/uaQMpccz_yYAAAAd/out-west-travis-scott.gif
 
 
 
