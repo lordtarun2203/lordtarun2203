@@ -4,9 +4,9 @@
 Welcome to the home of my many masterpieces.
 
 
-https://media.tenor.com/uaQMpccz_yYAAAAd/out-west-travis-scott.gif
 
 
+![]https://media.tenor.com/uaQMpccz_yYAAAAd/out-west-travis-scott.gif
 
 
 
