@@ -6,13 +6,6 @@ Welcome to the home of my many masterpieces.
 
 
 
-
-![out-west-travis-scott](https://github.com/lordtarun2203/lordtarun2203/assets/133484826/b4d501ba-351c-42ba-a0e4-0b94ce76b1e2)
-
-
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tarun_2203_/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tarunaaditya/) 
 
